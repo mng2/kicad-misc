@@ -1,0 +1,6 @@
+A set of very kludgy files I used to step repeat blocks for KiCad PCB.
+This is useful when you have multiple instances of a schematic page.
+I started by using the annotate feature that produces 1xx 2xx numbering.
+Then the first instance should be laid out manually.
+The python script goes through the PCB file and moves the parts to the desired spacing.
+Warning: very kludgy.
